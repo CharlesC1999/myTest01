@@ -7,7 +7,7 @@ section {
   height: 200px;
   background: url(https://images.pexels.com/photos/17051079/pexels-photo-17051079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   border-radius: 15px;
-  background-size: contain;
+  background-size: cover;
 }
 
 nav {
