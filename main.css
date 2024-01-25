@@ -1,0 +1,15 @@
+header {
+  height: 250px;
+  background: lightcoral;
+  border-radius: 15px;
+}
+
+div {
+  display: flex;
+  min-height: 800px;
+}
+
+footer {
+  background: darkgray;
+  height: 100px;
+}
